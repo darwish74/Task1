@@ -1,0 +1,14 @@
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\bin\Debug\net8.0\Specifiers.exe
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\bin\Debug\net8.0\Specifiers.deps.json
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\bin\Debug\net8.0\Specifiers.runtimeconfig.json
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\bin\Debug\net8.0\Specifiers.dll
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\bin\Debug\net8.0\Specifiers.pdb
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.AssemblyInfoInputs.cache
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.AssemblyInfo.cs
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.csproj.CoreCompileInputs.cache
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.dll
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\refint\Specifiers.dll
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.pdb
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\Specifiers.genruntimeconfig.cache
+C:\EraaSoft\Tasks\Task1\Task1\Specifiers\obj\Debug\net8.0\ref\Specifiers.dll
